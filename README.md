@@ -7,10 +7,10 @@
     - créer vos branche
     - compléter les issus
     - faites des pull  resuests 
-# Les composants doievent être créé dans le dossier /src/components
-# nom de vos fichiers ainsi que les composants doivent commencés par une lettre majuscule 
+  ### Les composants doievent être créé dans le dossier /src/components
+  ### nom de vos fichiers ainsi que les composants doivent commencés par une lettre majuscule 
 
 
-# toutes les dépendances sont déja installer (react-boostrap, Recharts, react-router-dom...) 
+  ### toutes les dépendances sont déja installer (react-boostrap, Recharts, react-router-dom...) 
 
   
